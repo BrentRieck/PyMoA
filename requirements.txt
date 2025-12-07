@@ -1,0 +1,4 @@
+youdotcom
+ollama
+python-dotenv
+colorama
